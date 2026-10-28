@@ -74,6 +74,7 @@ const ToDo = () => {
             <button onClick={() => remove(index)}>
               Delete
             </button>
+            <button>press</button>
           </li>
         ))}
       </ul>
